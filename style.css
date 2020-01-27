@@ -1,6 +1,52 @@
-div {
+#firstbox 
+{
   background-color: red;
   width: 65px;
   height: 65px;
   background-clip: content-box;
+  margin: 50px;
+  padding: 8px; 
+  border: 2px; 
+  border-style: solid;
 }
+  #secondbox 
+{
+  background-color: red;
+  width: 65px;
+  height: 65px;
+  background-clip: content-box;
+  margin: 50px;
+  padding: 95px;
+  padding-bottom: 40px;
+  padding-top: 40px; 
+  border: 2px; border-style: solid;
+  border-width: 2px ;
+} 
+  #thirdbox 
+  {
+    background-color: red;
+  width: 65px;
+  height: 65px;
+  background-clip: content-box;
+  margin: 50px;
+  padding: 8px; 
+  padding-top: 30px; 
+  padding-bottom: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border: 2px; border-style: solid;
+}
+  #fourthbox 
+  {
+    background-color: red;
+    width: 65px;
+    height: 65px;
+    background-clip: content-box;
+    margin: 50px;
+    padding: 8px; 
+    padding-top: 10px; 
+    padding-bottom: 50px;
+    padding-left: 180px;
+    padding-right: 140px;
+    border: 2px; border-style: solid;
+  }
